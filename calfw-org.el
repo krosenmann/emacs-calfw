@@ -3,6 +3,7 @@
 ;; Copyright (C) 2011  SAKURAI Masashi
 
 ;; Author: SAKURAI Masashi <m.sakurai at kiwanami.net>
+;; Version: 1.7b
 ;; Keywords: calendar, org
 
 ;; This program is free software; you can redistribute it and/or modify

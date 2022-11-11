@@ -3,7 +3,7 @@
 ;; Copyright (C) 2011,2012,2013,2014,2015  SAKURAI Masashi
 
 ;; Author: SAKURAI Masashi <m.sakurai at kiwanami.net>
-;; Version: 1.6
+;; Version: 1.7b
 ;; Keywords: calendar
 ;; URL: https://github.com/kiwanami/emacs-calfw
 
